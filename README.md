@@ -10,7 +10,7 @@ I've added a handy page that lists my experience through different projects.
 
 ### 🛠️ Tools
 - Languages: SQL, Python, MQL5/C++
-- Database: Access, MySQL
+- Database: Access, PostgreSQL
 - Visualization: Power BI, Excel
 
 ### 🔗 You can reach me on...
